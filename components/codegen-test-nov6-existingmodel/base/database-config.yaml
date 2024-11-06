@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: codegen-test-nov6-existingmodel-database-config
+data:
+  VECTORDB_HOST: "codegen-test-nov6-existingmodel-database"
+  VECTORDB_PORT: ""
